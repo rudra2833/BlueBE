@@ -1,4 +1,4 @@
-//HERE IN THIS FILE WE ARE EXPORTING TH E DATABASE NAME
+//HERE IN THIS FILE WE ARE EXPORTING THE DATABASE NAME
 
 
 //writing the name of the database and exporting it
